@@ -10,5 +10,4 @@ const PresentationalComponent =(props) =>{
       </View>
     )
 }
-
 export default PresentationalComponent;
